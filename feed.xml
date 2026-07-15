@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RSS Testing Feed</title>
+    <link>https://ntdef.github.io/rss-testing</link>
+    <atom:link href="https://ntdef.github.io/rss-testing/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A test podcast feed for development and QA purposes.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jul 2026 23:57:54 +0000</lastBuildDate>
+    <itunes:author>Test Author</itunes:author>
+    <itunes:summary>A test podcast feed for development and QA purposes.</itunes:summary>
+    <itunes:image href="https://ntdef.github.io/rss-testing/cover.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <item>
+      <title>Test Episode 1</title>
+      <description>This is the first test episode.</description>
+      <enclosure url="https://ntdef.github.io/rss-testing/episode1.mp3" length="1024000" type="audio/mpeg"/>
+      <guid isPermaLink="false">test-episode-1</guid>
+      <pubDate>Wed, 15 Jul 2026 23:57:54 +0000</pubDate>
+      <itunes:duration>00:01:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Test Episode 2</title>
+      <description>This is the second test episode.</description>
+      <enclosure url="https://ntdef.github.io/rss-testing/episode2.mp3" length="2048000" type="audio/mpeg"/>
+      <guid isPermaLink="false">test-episode-2</guid>
+      <pubDate>Wed, 15 Jul 2026 22:00:00 +0000</pubDate>
+      <itunes:duration>00:02:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
