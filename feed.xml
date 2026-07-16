@@ -15,19 +15,19 @@
     <item>
       <title>Test Episode 1</title>
       <description>This is the first test episode.</description>
-      <enclosure url="https://ntdef.github.io/rss-testing/episode1.mp3" length="1024000" type="audio/mpeg"/>
+      <enclosure url="https://ntdef.github.io/rss-testing/episode1.mp3" length="961350" type="audio/mpeg"/>
       <guid isPermaLink="false">test-episode-1</guid>
       <pubDate>Wed, 15 Jul 2026 23:57:54 +0000</pubDate>
-      <itunes:duration>00:01:00</itunes:duration>
+      <itunes:duration>01:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>Test Episode 2</title>
       <description>This is the second test episode.</description>
-      <enclosure url="https://ntdef.github.io/rss-testing/episode2.mp3" length="2048000" type="audio/mpeg"/>
+      <enclosure url="https://ntdef.github.io/rss-testing/episode2.mp3" length="4801559" type="audio/mpeg"/>
       <guid isPermaLink="false">test-episode-2</guid>
       <pubDate>Wed, 15 Jul 2026 22:00:00 +0000</pubDate>
-      <itunes:duration>00:02:00</itunes:duration>
+      <itunes:duration>05:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
